@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently a fourth year student pursuing an undergraduate degree in Computer Science in Wenzhou Kean University.
+
+
 ### Interests
 ![networking](https://img.shields.io/badge/networking-CDEFE3?style=for-the-badge&logo=wireshark&logoColor=3E7C6B)
 ![security](https://img.shields.io/badge/security-E0D7F7?style=for-the-badge&logo=kalilinux&logoColor=6A56A8)
@@ -34,6 +38,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kei-wai-hadassah-wong-39a377303/)
 
 
-🌱 I’m currently a fourth year student pursuing an undergraduate degree in Computer Science in Wenzhou Kean University in Wenzhou, Zhejiang China. 
 
 🔭 When I'm not studying for my classes i do tryhackme rooms for fun and experience! 
