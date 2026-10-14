@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :))
 
 <!--
 **h-19w/h-19w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### about me 
+
+
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
