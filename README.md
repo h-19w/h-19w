@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### about me 
 
 
 
@@ -26,7 +25,12 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 <!--![Overleaf]()-->
 
-### Contact
+### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hadassahwong19@outlook.sg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-19w)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kei-wai-hadassah-wong-39a377303/)
+
+
+🌱 I’m currently a fourth year student pursuing an undergraduate degree in Computer Science in Wenzhou Kean University in Wenzhou, Zhejiang China. 
+
+🔭 When I'm not studying for my classes i do tryhackme rooms for fun and experience! 
