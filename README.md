@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Interests
+![networking](https://img.shields.io/badge/networking-CDEFE3?style=for-the-badge&logo=wireshark&logoColor=3E7C6B)
+![security](https://img.shields.io/badge/security-E0D7F7?style=for-the-badge&logo=kalilinux&logoColor=6A56A8)
+![osint](https://img.shields.io/badge/osint-FAD5E1?style=for-the-badge&logo=duckduckgo&logoColor=B04D77)
 
 
 ### Languages & Tools
