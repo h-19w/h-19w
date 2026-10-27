@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently a fourth year student pursuing an undergraduate degree in Computer Science in Wenzhou Kean University.
+🌱 I’m currently a senior student pursuing an undergraduate degree in Computer Science in Wenzhou Kean University!
 
 
 ### Interests
